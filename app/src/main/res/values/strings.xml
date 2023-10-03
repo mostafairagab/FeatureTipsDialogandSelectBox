@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feature Tips Dialog and Select Box</string>
+    <string name="order_screen_tips_dialog_how_much">How much do you want to tip?</string>
+    <string name="order_screen_tips_dialog_confirm">Confirm</string>
+</resources>
